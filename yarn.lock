@@ -2261,7 +2261,7 @@ __metadata:
     "@nomiclabs/hardhat-ethers": "npm:hardhat-deploy-ethers@0.3.0-beta.13"
     "@nomiclabs/hardhat-waffle": ^2.0.3
     "@openzeppelin/contracts": ^4.7.3
-    "@typechain/ethers-v5": ^10.1.1
+    "@typechain/ethers-v5": ^10.2.0
     "@typechain/hardhat": ^6.1.4
     "@types/chai": ^4.3.3
     "@types/mocha": ^10.0.0
@@ -4184,9 +4184,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typechain/ethers-v5@npm:^10.1.1":
-  version: 10.1.1
-  resolution: "@typechain/ethers-v5@npm:10.1.1"
+"@typechain/ethers-v5@npm:^10.2.0":
+  version: 10.2.0
+  resolution: "@typechain/ethers-v5@npm:10.2.0"
   dependencies:
     lodash: ^4.17.15
     ts-essentials: ^7.0.1
@@ -4197,7 +4197,7 @@ __metadata:
     ethers: ^5.1.3
     typechain: ^8.1.1
     typescript: ">=4.3.0"
-  checksum: 6264294a03d0af117f99bee1639461be38161418d7be340a5bf24c4197aeaf7956aabec922119c20f90dba38ea7c12e5c85e0baddd358d18d68f4865037671cb
+  checksum: 22f7109f22a6e2b459c45aaf5424143b6129455659aa132ab447ed14d24bb68a6b3b4021008244faca743d469208037a7766d3d9c3ab49db42d36f4e382887c4
   languageName: node
   linkType: hard
 
